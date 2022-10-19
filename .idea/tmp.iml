@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/managed_cache" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/abtest/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/advertising/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/altasib.geoip/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/b24connector/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/bitrix.eshop/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/bitrix.sitecommunity/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/bitrix.sitecorporate/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/bitrix.siteinfoportal/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/bitrix.sitepersonal/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/bitrixcloud/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/bizproc/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/blog/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/calendar/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/clouds/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/compression/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/conversion/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/currency/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/fgsoft.autoloader/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/fileman/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/form/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/forum/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/highloadblock/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/iblock/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/idea/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/im/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/landing/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/learning/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/mail/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/main/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/messageservice/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/mobileapp/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/perfmon/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/photogallery/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/pull/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/rest/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/scale/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/search/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/security/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/sender/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/seo/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/socialnetwork/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/socialservices/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/statistic/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/subscribe/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/support/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/translate/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/ui/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/vote/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/webservice/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/modules/wiki/install" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/wizards" />
+      <excludeFolder url="file://$MODULE_DIR$/www/local/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/www/upload" />
+      <excludeFolder url="file://$MODULE_DIR$/www/bitrix/stack_cache" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
